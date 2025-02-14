@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Matin!
 🎓 I'm a Computer Programming student at **Seneca Polytechnic**, passionate about software development and problem-solving.
 
-👨‍💻 Currently learning **advanced C++ development, backend web technologies, and software design**, along with **project management fundamentals**.
+👨‍💻 Currently learning **C++ development, backend web technologies, and software design**, along with **project management fundamentals**.
 
 ### 🔹 Languages
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
