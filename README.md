@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Matin!
+🎓 I'm a Computer Programming student at **Seneca Polytechnic**, passionate about software development and problem-solving.
 
-My name is Matin, and I am a Computer Programming student at Seneca Polytechnic
 
 <!--
 **matinsalimzadeh/matinsalimzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
