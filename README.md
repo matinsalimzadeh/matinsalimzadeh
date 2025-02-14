@@ -12,7 +12,9 @@
 
 ---
 
-### 🔹 Frameworks & Libraries
+### 🔹 Web Technologies
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST_APIs-000000?style=flat)
@@ -25,35 +27,8 @@
 
 ---
 
-### 🔹 Tools & Technologies
+### 🔹 Tools & Development Practices
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
-
----
-
-### 🔹 Software Development & Methodologies
-![Unit Testing](https://img.shields.io/badge/-Unit%20Testing-5C2D91?style=flat)
-![Software Testing](https://img.shields.io/badge/-Software%20Testing-5C2D91?style=flat)
-![UML](https://img.shields.io/badge/-UML-02569B?style=flat&logo=uml&logoColor=white)
-![Agile](https://img.shields.io/badge/-Agile-02569B?style=flat)
-
-
-
-
-
-<!--
-**matinsalimzadeh/matinsalimzadeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---> 
